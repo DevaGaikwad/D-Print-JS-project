@@ -1,0 +1,6 @@
+{
+  "name": "Print & PDF Lab",
+  "description": "An advanced PDF customizer, compiler, and printer featuring N-up layout configuration, multi-PDF merging, and direct image-to-PDF conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
